@@ -1,0 +1,5 @@
+TST = "countries/Test.txt"
+TCW = "countries/Traders Commonwealth.txt"
+RGR = "countries/Rio Grande Republic.txt"
+ITC = "countries/Intercom.txt"
+EDB = "countries/El Diablos.txt"
